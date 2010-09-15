@@ -1,10 +1,10 @@
 div#lanyrd{
-      background:#eef;
-      border:1px solid #999;
-      padding:5px;
-      -moz-border-radius:5px;
-      -wekbit-border-radius:5px;
-      border-radius:5px;
-      width:20em;
-    }
+  background:#eef;
+  border:1px solid #999;
+  padding:5px;
+  -moz-border-radius:5px;
+  -wekbit-border-radius:5px;
+  border-radius:5px;
+  width:20em;
+}
 #lanyrd a{color:#000;}
