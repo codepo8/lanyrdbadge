@@ -21,6 +21,7 @@ lanyrdbadge = function(){
     res = res.replace(/class="split"/,'id="lanyrd"');
     res = res.replace(/speaking at/,'');
     res = res.replace(/href="/,'href="http://lanyrd.com');
+    res = res.replace(/src="/gi,'src="http://lanyrd.com'); 
     l.parentNode.innerHTML = res;
   }
   return {seed:seed,init:init}
